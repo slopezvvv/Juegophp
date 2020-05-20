@@ -6,6 +6,8 @@
  * and open the template in the editor.
  */
 
+include_once 'Conexion.php';
+
 class ControladorUsuario extends Conexion{
-    $mysqli = mysqli("localhost","","","");
+    
 }

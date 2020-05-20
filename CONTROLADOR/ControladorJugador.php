@@ -6,3 +6,8 @@
  * and open the template in the editor.
  */
 
+include_once 'Conexion.php';
+
+class ControladorJugador extends Conexion{
+    
+}
